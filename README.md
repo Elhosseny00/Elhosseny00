@@ -1,5 +1,5 @@
   - 👋 Hello, I'm @Elhosseny00
   - 👀 I am interested in front-end web development
-  - 🌱 my skills HTML, CSS, JS, REACTJS,BOOTSTRAP, GIT & GITHUB
+  - 🌱 my skills HTML, CSS, JS, REACTJS,React Redux Toolkit,TAILWIND CSS, GIT & GITHUB
   - 🔥 I am looking forward to working in major companies or working as a freelancer
   - 💪🏻Go Hard Or Go Home
